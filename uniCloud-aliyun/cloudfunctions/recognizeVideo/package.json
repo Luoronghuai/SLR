@@ -1,0 +1,7 @@
+{
+  "name": "recognizeVideo",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

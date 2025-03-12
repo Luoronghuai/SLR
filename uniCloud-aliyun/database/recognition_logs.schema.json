@@ -1,0 +1,27 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "识别记录 ID，系统自动生成"
+		},
+		"fileID": {
+			"description": "文件id"
+		},
+		"videoUrl": {
+			"description": "视频链接"
+		},
+		"result": {
+			"description": "识别结果"
+		},
+		"created": {
+			"description": "识别时间"
+		}
+	}
+}

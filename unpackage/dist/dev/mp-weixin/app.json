@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/firstShow/firstShow",
+    "pages/diary/diary",
+    "pages/about/about"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "手语识别",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
